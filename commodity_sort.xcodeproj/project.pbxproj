@@ -21,6 +21,7 @@
 		0463A11B1DE6DB2900830E06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0463A1191DE6DB2900830E06 /* LaunchScreen.storyboard */; };
 		0463A1241DE6DB5D00830E06 /* QYCommodityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463A1231DE6DB5D00830E06 /* QYCommodityViewController.m */; };
 		0463A12A1DE6DBA100830E06 /* QYNavView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463A1291DE6DBA100830E06 /* QYNavView.m */; };
+		04B85C7C1DEFF12D00EDC212 /* QYTsingTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B85C7B1DEFF12D00EDC212 /* QYTsingTestViewController.m */; };
 		04C21BF61DEBC36F0095EC99 /* QYDetailsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C21BF51DEBC36F0095EC99 /* QYDetailsView.m */; };
 		04C21BF91DEBCF350095EC99 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C21BF81DEBCF350095EC99 /* UIView+Extension.m */; };
 		04C21BFC1DEBD0C60095EC99 /* QYDetailsViewFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C21BFB1DEBD0C60095EC99 /* QYDetailsViewFrame.m */; };
@@ -53,6 +54,8 @@
 		0463A1231DE6DB5D00830E06 /* QYCommodityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYCommodityViewController.m; sourceTree = "<group>"; };
 		0463A1281DE6DBA100830E06 /* QYNavView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QYNavView.h; sourceTree = "<group>"; };
 		0463A1291DE6DBA100830E06 /* QYNavView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYNavView.m; sourceTree = "<group>"; };
+		04B85C7A1DEFF12D00EDC212 /* QYTsingTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QYTsingTestViewController.h; sourceTree = "<group>"; };
+		04B85C7B1DEFF12D00EDC212 /* QYTsingTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYTsingTestViewController.m; sourceTree = "<group>"; };
 		04C21BF41DEBC36F0095EC99 /* QYDetailsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QYDetailsView.h; sourceTree = "<group>"; };
 		04C21BF51DEBC36F0095EC99 /* QYDetailsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYDetailsView.m; sourceTree = "<group>"; };
 		04C21BF71DEBCF350095EC99 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
@@ -98,6 +101,8 @@
 				04C21BF81DEBCF350095EC99 /* UIView+Extension.m */,
 				0463A1221DE6DB5D00830E06 /* QYCommodityViewController.h */,
 				0463A1231DE6DB5D00830E06 /* QYCommodityViewController.m */,
+				04B85C7A1DEFF12D00EDC212 /* QYTsingTestViewController.h */,
+				04B85C7B1DEFF12D00EDC212 /* QYTsingTestViewController.m */,
 				0463A1271DE6DB8400830E06 /* View */,
 				0463A1251DE6DB7600830E06 /* Model */,
 				0463A10B1DE6DB2900830E06 /* Supporting Files */,
@@ -227,6 +232,7 @@
 			files = (
 				043415301DE82A62004E197A /* QYContentCell.m in Sources */,
 				0463A12A1DE6DBA100830E06 /* QYNavView.m in Sources */,
+				04B85C7C1DEFF12D00EDC212 /* QYTsingTestViewController.m in Sources */,
 				04C21BF61DEBC36F0095EC99 /* QYDetailsView.m in Sources */,
 				04C21BFC1DEBD0C60095EC99 /* QYDetailsViewFrame.m in Sources */,
 				043415291DE80A6E004E197A /* QYCommodity.m in Sources */,
